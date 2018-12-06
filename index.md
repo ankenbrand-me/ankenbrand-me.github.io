@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Willkommen
 
-You can use the [editor on GitHub](https://github.com/ankenbrand-me/ankenbrand-me.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Das ist die Website der Familie Ankenbrand.
+Hier findest du Links auf die internen Bereiche.
+Wenn du ein Freund der Familie bist und Zugriff möchtest sprich einfach Markus an.
+Ansonsten gibt es hier nichts zu sehen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nextcloud
 
-### Markdown
+[Hier geht's zur Nextcloud](https://nextcloud.iimog.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Travel Blog
 
-```markdown
-Syntax highlighted code block
+[Hier geht's zur Travelblog](https://travel.ankenbrand.me)
 
-# Header 1
-## Header 2
-### Header 3
+### Webmail
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankenbrand-me/ankenbrand-me.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Roundcube gibt es nicht mehr. Dafür kannst du deine Mails jetzt auch über die [Nextcloud](https://nextcloud.iimog.org) verwalten.
