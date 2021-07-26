@@ -11,7 +11,7 @@ Ansonsten gibt es hier nichts zu sehen.
 
 ### Travel Blog
 
-[Hier geht's zur Travelblog](https://travel.ankenbrand.me)
+[Hier geht's zum Travelblog](https://travel.ankenbrand.me)
 
 ### Webmail
 
